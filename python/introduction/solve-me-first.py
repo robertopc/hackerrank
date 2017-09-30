@@ -1,7 +1,4 @@
-"""
-Solve Me First
-
-"""
+# Solve Me First
 
 def solveMeFirst(a,b):
    # Hint: Type return a+b below
