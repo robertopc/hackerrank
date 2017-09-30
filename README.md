@@ -13,7 +13,8 @@ My solved challenges in [Hacker Hank](https://www.hackerrank.com/robertopc).
     - [x] [Write a function](python3/introduction/write-a-function.py)
     - [x] [Print Function](python3/introduction/print.py)
 * Basic Data Types
-    - [ ] [Lists](python3/basic-data-types/lists.py)
+    - [X] [Lists](python3/basic-data-types/lists.py)
+        * [Lists(Alternative solution)](python3/basic-data-types/lists-alternative-for-humans.py)
     - [ ] [Tuples](python3/basic-data-types/tuples.py)
     - [ ] [List Comprehensions](python3/basic-data-types/list-comprehensions.py)
     - [ ] [Find the Second Largest Number](python3/basic-data-types/find-second-maximum-number-in-a-list.py)
@@ -32,7 +33,7 @@ My solved challenges in [Hacker Hank](https://www.hackerrank.com/robertopc).
     - [ ] Set .discard(), .remove() & .pop()
     - [ ] Set .union() Operation
     - [ ] Set .intersection() Operation
-    - [ ] [Set .difference() Operation](python3/sets/py-set-difference-operation.py)
+    - [ ] Set .difference() Operation
     - [ ] Set .symmetric_difference() Operation
     - [ ] Set Mutations
     - [ ] The Captain's Room
