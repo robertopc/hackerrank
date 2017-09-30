@@ -2,30 +2,42 @@
 
 My solved challenges in [Hacker Hank](https://www.hackerrank.com/robertopc).
 
-## Python
+## Python3
 * Introduction
-    - [x] [Solve Me First](python/introduction/solve-me-first.py)
-    - [x] [Say "Hello, World!"](python/introduction/py-hello-world.py)
-    - [x] [Python If-Else](python/introduction/if-else.py)
-    - [x] [Arithmetic Operators](python/introduction/arithmetic-operators.py)
-    - [x] [Python: Division](python/introduction/division.py)
-    - [x] [Loops](python/introduction/loops.py)
-    - [x] [Write a function](python/introduction/write-a-function.py)
-    - [x] [Print Function](python/introduction/print.py)
+    - [x] [Solve Me First](python3/introduction/solve-me-first.py)
+    - [x] [Say "Hello, World!"](python3/introduction/py-hello-world.py)
+    - [x] [Python If-Else](python3/introduction/if-else.py)
+    - [x] [Arithmetic Operators](python3/introduction/arithmetic-operators.py)
+    - [x] [Python: Division](python3/introduction/division.py)
+    - [x] [Loops](python3/introduction/loops.py)
+    - [x] [Write a function](python3/introduction/write-a-function.py)
+    - [x] [Print Function](python3/introduction/print.py)
 * Basic Data Types
-    - [ ] [Lists](python/basic-data-types/lists.py)
-    - [ ] [Tuples](python/basic-data-types/tuples.py)
-    - [ ] [List Comprehensions](python/basic-data-types/list-comprehensions.py)
-    - [ ] [Find the Second Largest Number](python/basic-data-types/find-second-maximum-number-in-a-list.py)
-    - [ ] [Nested Lists](python/basic-data-types/nested-list.py)
-    - [ ] [Finding the percentage](python/basic-data-types/finding-the-percentage.py)
+    - [ ] [Lists](python3/basic-data-types/lists.py)
+    - [ ] [Tuples](python3/basic-data-types/tuples.py)
+    - [ ] [List Comprehensions](python3/basic-data-types/list-comprehensions.py)
+    - [ ] [Find the Second Largest Number](python3/basic-data-types/find-second-maximum-number-in-a-list.py)
+    - [ ] [Nested Lists](python3/basic-data-types/nested-list.py)
+    - [ ] [Finding the percentage](python3/basic-data-types/finding-the-percentage.py)
 * Strings
-    - [ ] [sWAP cASE](python/strings/swap-case.py)
-    - [ ] [String Split and Join](python/strings/string-split-and-join.py)
-    - [ ] [What's Your Name?](python/strings/what-is-your-name.py)
-    - [ ] [sWAP cASE](python/strings/swap-case.py)
+    - [ ] [sWAP cASE](python3/strings/swap-case.py)
+    - [ ] [String Split and Join](python3/strings/string-split-and-join.py)
+    - [ ] [What's Your Name?](python3/strings/what-is-your-name.py)
+    - [ ] [sWAP cASE](python3/strings/swap-case.py)
 * Sets
-    - [ ] [Set .difference() Operation](python/sets/py-set-difference-operation.py)
+    - [ ] Introduction to Sets
+    - [ ] Symmetric Difference
+    - [ ] No Idea!
+    - [ ] Set .add()
+    - [ ] Set .discard(), .remove() & .pop()
+    - [ ] Set .union() Operation
+    - [ ] Set .intersection() Operation
+    - [ ] [Set .difference() Operation](python3/sets/py-set-difference-operation.py)
+    - [ ] Set .symmetric_difference() Operation
+    - [ ] Set Mutations
+    - [ ] The Captain's Room
+    - [ ] Check Subset
+    - [ ] Check Strict Superset
 * Math
     - [ ] Polar Coordinates
     - [ ] Find Angle MBC
