@@ -1,10 +1,9 @@
-# Python If-Else
+"""
+Python If-Else
 
 https://www.hackerrank.com/challenges/py-if-else/problem
 
-# Submit
-
-```python
+"""
 def isodd(n):
     return True if n % 2 == 1 else False
 
@@ -20,4 +19,3 @@ if __name__ == '__main__':
         print('Not Weird')
     else:
         print('Weird')
-```
