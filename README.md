@@ -2,9 +2,11 @@
 
 My solved challenges in [Hacker Hank](https://www.hackerrank.com/robertopc).
 
+## Algorithms
+* Warmup
+    - [x] [Solve Me First](python3/introduction/solve-me-first.py)
 ## Python3
 * Introduction
-    - [x] [Solve Me First](python3/introduction/solve-me-first.py)
     - [x] [Say "Hello, World!"](python3/introduction/py-hello-world.py)
     - [x] [Python If-Else](python3/introduction/if-else.py)
     - [x] [Arithmetic Operators](python3/introduction/arithmetic-operators.py)
@@ -13,9 +15,9 @@ My solved challenges in [Hacker Hank](https://www.hackerrank.com/robertopc).
     - [x] [Write a function](python3/introduction/write-a-function.py)
     - [x] [Print Function](python3/introduction/print.py)
 * Basic Data Types
-    - [X] [Lists](python3/basic-data-types/lists.py)
+    - [x] [Lists](python3/basic-data-types/lists.py)
         * [Lists(Alternative solution)](python3/basic-data-types/lists-alternative-for-humans.py)
-    - [ ] [Tuples](python3/basic-data-types/tuples.py)
+    - [x] [Tuples](python3/basic-data-types/tuples.py)
     - [ ] [List Comprehensions](python3/basic-data-types/list-comprehensions.py)
     - [ ] [Find the Second Largest Number](python3/basic-data-types/find-second-maximum-number-in-a-list.py)
     - [ ] [Nested Lists](python3/basic-data-types/nested-list.py)
