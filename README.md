@@ -21,7 +21,7 @@ My solved challenges in [Hacker Hank](https://www.hackerrank.com/robertopc).
     - [x] [List Comprehensions](python3/basic-data-types/list-comprehensions.py)
     - [x] [Find the Second Largest Number](python3/basic-data-types/find-second-maximum-number-in-a-list.py)
     - [x] [Nested Lists](python3/basic-data-types/nested-list.py)
-    - [ ] [Finding the percentage](python3/basic-data-types/finding-the-percentage.py)
+    - [x] [Finding the percentage](python3/basic-data-types/finding-the-percentage.py)
 * Strings
     - [ ] [sWAP cASE](python3/strings/swap-case.py)
     - [ ] [String Split and Join](python3/strings/string-split-and-join.py)
