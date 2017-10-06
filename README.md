@@ -5,6 +5,7 @@ My solved challenges in [Hacker Hank](https://www.hackerrank.com/robertopc).
 ## Algorithms
 * Warmup
     - [x] [Solve Me First](python3/introduction/solve-me-first.py)
+    
 ## Python3
 * Introduction
     - [x] [Say "Hello, World!"](python3/introduction/py-hello-world.py)
@@ -136,3 +137,35 @@ My solved challenges in [Hacker Hank](https://www.hackerrank.com/robertopc).
     - [ ] [Inner and Outer](python3/numpy/inner-and-outer.py)
     - [ ] [Polynomials](python3/numpy/polynomials.py)
     - [ ] [Linear Algebra](python3/numpy/linear-algebra.py)
+    
+## 30 Days of Code
+- [x] [Day 00: Hello, World](30-days-of-code/day-00-hello-world.py)
+- [ ] [Day 01: Data Types](30-days-of-code/day-01-data-types.py)
+- [ ] [Day 02: Operators](30-days-of-code/day-02-operators.py)
+- [ ] [Day 03: Intro to Conditional Statements](30-days-of-code/day-03-intro-to-conditional-statements.py)
+- [ ] [Day 04: Class vs. Instance](30-days-of-code/day-04-class-vs-instance.py)
+- [ ] [Day 05: Loops](30-days-of-code/day-05-loops.py)
+- [ ] [Day 06: Let's Review](30-days-of-code/day-06-lets-review.py)
+- [ ] [Day 07: Arrays](30-days-of-code/day-07-arrays.py)
+- [ ] [Day 08: Dictionaries and Maps](30-days-of-code/day-08-dictionaries-and-maps.py)
+- [ ] [Day 09: Recursion](30-days-of-code/day-09-recursion.py)
+- [ ] [Day 10: Binary Numbers](30-days-of-code/day-10-binary-numbers.py)
+- [ ] [Day 11: 2D Arrays](30-days-of-code/day-11-2d-arrays.py)
+- [ ] [Day 12: Inheritance](30-days-of-code/day-12-inheritance.py)
+- [ ] [Day 13: Abstract Class](30-days-of-code/day-13-abstract-classes.py)
+- [ ] [Day 14: Scope](30-days-of-code/day-14-scope.py)
+- [ ] [Day 15: Linked List](30-days-of-code/day-15-linked-list.py)
+- [ ] [Day 16: Exceptions - String to Integer](30-days-of-code/day-16-exceptions-string-to-integer.py)
+- [ ] [Day 17: More Exceptions](30-days-of-code/day-17-more-exceptions.py)
+- [ ] [Day 18: Queues and Stacks](30-days-of-code/day-18-queues-and-stacks.py)
+- [ ] [Day 19: Interfaces](30-days-of-code/day-19-interfaces.py)
+- [ ] [Day 20: Sorting](30-days-of-code/day-20-sorting.py)
+- [ ] [Day 21: Generics](30-days-of-code/day-21-generics.py)
+- [ ] [Day 22: Binary Search Trees](30-days-of-code/day-22-binary-search-trees.py)
+- [ ] [Day 23: BST Level-Order Traversal](30-days-of-code/day-23-bst-level-order-traversal.py)
+- [ ] [Day 24: More Linked Lists](30-days-of-code/day-24-more-linked-lists.py)
+- [ ] [Day 25: Runing Time and Complexity](30-days-of-code/day-25-running-time-and-complexity.py)
+- [ ] [Day 26: Nested Logic](30-days-of-code/day-26-nested-logic.py)
+- [ ] [Day 27: Testing](30-days-of-code/day-27-testing.py)
+- [ ] [Day 28: Regex, Patterns and Intro to Databases](30-days-of-code/day-28-regex-patterns-and-intro-to-databases.py)
+- [ ] [Day 29: Bitwise AND](30-days-of-code/day-29-bitwise-and.py)
