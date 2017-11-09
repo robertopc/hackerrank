@@ -151,7 +151,7 @@ My solved challenges in [Hacker Hank](https://www.hackerrank.com/robertopc).
 - [x] [Day 09: Recursion](30-days-of-code/day-09-recursion.py)
 - [x] [Day 10: Binary Numbers](30-days-of-code/day-10-binary-numbers.py)
 - [x] [Day 11: 2D Arrays](30-days-of-code/day-11-2d-arrays.py)
-- [ ] [Day 12: Inheritance](30-days-of-code/day-12-inheritance.py)
+- [x] [Day 12: Inheritance](30-days-of-code/day-12-inheritance.py)
 - [ ] [Day 13: Abstract Class](30-days-of-code/day-13-abstract-classes.py)
 - [ ] [Day 14: Scope](30-days-of-code/day-14-scope.py)
 - [ ] [Day 15: Linked List](30-days-of-code/day-15-linked-list.py)
