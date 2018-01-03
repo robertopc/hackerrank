@@ -55,11 +55,11 @@ if __name__ == '__main__':
     7. reverse
     '''
     for i in range(N):
-        print('\nOperation {}'.format(i + 1))
+        print('\nOperation {}/{}'.format(i + 1, N))
         while True:
             try:
                 print(operations_list)
-                operation_index = int(input('\tInput the number of the operation: '))
+                operation_index = int(input('Input the number of the operation: '))
                 if operation_index not in range(1, 7 + 1):
                     raise ValueError()
                 break
